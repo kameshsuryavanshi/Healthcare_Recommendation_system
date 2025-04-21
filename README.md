@@ -102,7 +102,7 @@ The framework comprises three main components:
 ## Contributions
 
 - **Developers**:
-  - [Your Name](https://github.com/kameshsuryavanshi) - Lead Developer
+  - [Kamesh Suryavanshi](https://github.com/kameshsuryavanshi) - Lead Developer
 
 - **Acknowledgments**:
   - [BioBERT](https://github.com/dmis-lab/biobert) for domain-specific embeddings.
