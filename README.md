@@ -1,5 +1,5 @@
 
-# Personalized Healthcare Recommendation System
+# Personalized Healthcare Recommendation System using GenAI
 
 ## Overview
 
